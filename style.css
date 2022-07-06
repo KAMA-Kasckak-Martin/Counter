@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(245, 237, 3);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+p {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+button {
+  position: absolute;
+  transform: translate();
+  top: 20px;
+  right: 20px;
+}
+
+div {
+}
